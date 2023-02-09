@@ -1,1 +1,1 @@
-make current working directory executable
+script that prints the absolute path name of the current working directory
